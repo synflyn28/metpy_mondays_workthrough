@@ -1,4 +1,4 @@
-# MetPy Monday Workthroughs
+# MetPy Mondays Workthroughs
 
 ##Description
 
